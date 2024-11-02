@@ -1,0 +1,14 @@
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.exe
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.deps.json
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.runtimeconfig.json
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.dll
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\bin\Debug\net8.0\SudokuSolver.pdb
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.AssemblyInfo.cs
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.dll
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\refint\SudokuSolver.dll
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.pdb
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\SudokuSolver.genruntimeconfig.cache
+C:\Users\osalw\Desktop\Sudoku Solver\SudokuSolver\obj\Debug\net8.0\ref\SudokuSolver.dll
